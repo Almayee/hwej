@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/TQYPPftJq2546QbbuEM+jAE2kh9P+zNO7Vehw1+yHODLkTygvGMxxcBH7U5wZB3IZu6+5Ngz6x54k4bwa53Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Almaye\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Almaye\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Almaye\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

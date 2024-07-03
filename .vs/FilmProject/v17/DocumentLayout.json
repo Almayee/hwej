@@ -1,0 +1,832 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Almaye\\Desktop\\FilmProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\areas\\admin\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\areas\\admin\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\filmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\filmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\concretes\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\concretes\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\abstracts\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\abstracts\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\repositoryconcretes\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\repositoryconcretes\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\repositoryabstracts\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\repositoryabstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\concretes\\contactmassageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\concretes\\contactmassageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\concretes\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\concretes\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\abstracts\\icontactmassageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\abstracts\\icontactmassageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\abstracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\abstracts\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\abstracts\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\abstracts\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\repositoryconcretes\\contactmassagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\contactmassagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\repositoryabstracts\\icontactmassagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\icontactmassagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\dtos\\moviedtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\dtos\\moviedtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\concretes\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\concretes\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\repositoryconcretes\\officerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\officerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\repositoryabstracts\\iofficerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\iofficerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\bussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\bussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|c:\\users\\almaye\\desktop\\filmproject\\filmproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF4BF95-589C-483A-AC1D-BECE47004A4E}|FilmProject\\FilmProject.csproj|solutionrelative:filmproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\exceptions\\imagecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\exceptions\\imagecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|c:\\users\\almaye\\desktop\\filmproject\\bussiness\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45D0A48-F830-493B-99B6-126A9923D568}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|c:\\users\\almaye\\desktop\\filmproject\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D851A327-8F49-4AFE-B424-DF86533FCAC0}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|c:\\users\\almaye\\desktop\\filmproject\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AD3F1D4-7303-4B39-99C1-47BB747A1E6F}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 50,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "FilmProject\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "FilmProject\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T18:01:57.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FilmProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T17:51:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FilmProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FilmProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAmwLABAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T17:50:25.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FilmProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FilmProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:49:51.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilmProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\FilmProject.csproj",
+              "RelativeDocumentMoniker": "FilmProject\\FilmProject.csproj",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\FilmProject.csproj",
+              "RelativeToolTip": "FilmProject\\FilmProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T15:46:02.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:52:34.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Movie.cs",
+              "RelativeToolTip": "Core\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:36:07.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmProject\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "FilmProject\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T17:56:17.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "FilmProject\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "FilmProject\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:54:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FilmProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FilmProject\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-03T15:47:17.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\CommentRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:10:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Program.cs",
+              "RelativeDocumentMoniker": "FilmProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Program.cs",
+              "RelativeToolTip": "FilmProject\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:33:45.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Abstracts\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\ICommentService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Abstracts\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:11:44.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\ICommentRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:04:12.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Comment.cs",
+              "RelativeToolTip": "Core\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:58:00.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\CommentService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Concretes\\CommentService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\CommentService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Concretes\\CommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:12:36.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:26:14.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:34:53.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\MovieRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\MovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:51:36.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactMassageService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\ContactMassageService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Concretes\\ContactMassageService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\ContactMassageService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Concretes\\ContactMassageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:31:20.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\MovieService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Concretes\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\MovieService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Concretes\\MovieService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:53:02.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IMovieRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:49:53.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IContactMassageService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\IContactMassageService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Abstracts\\IContactMassageService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\IContactMassageService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Abstracts\\IContactMassageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:28:27.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactMassageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\ContactMassageRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\ContactMassageRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\ContactMassageRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\ContactMassageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:25:37.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IContactMassageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IContactMassageRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IContactMassageRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IContactMassageRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IContactMassageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:24:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Abstracts\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\IMovieService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Abstracts\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:49:10.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOfficeService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\IOfficeService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Abstracts\\IOfficeService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\IOfficeService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Abstracts\\IOfficeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:56:03.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "Core\\Models\\ContactMessage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:18:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OfficeService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\OfficeService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Concretes\\OfficeService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Concretes\\OfficeService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Concretes\\OfficeService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:00:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:32:19.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Services\\Abstracts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeToolTip": "Bussiness\\Services\\Abstracts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:51:59.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IOfficeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IOfficeRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IOfficeRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\IOfficeRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IOfficeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:50:09.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OfficeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\OfficeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\OfficeRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\OfficeRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\OfficeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:50:56.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MovieCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "RelativeDocumentMoniker": "Bussiness\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "RelativeToolTip": "Bussiness\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:47:32.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Office.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Office.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Office.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Office.cs",
+              "RelativeToolTip": "Core\\Models\\Office.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:40:51.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:19:28.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Models\\Slider.cs",
+              "RelativeToolTip": "Core\\Models\\Slider.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:19:53.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:31:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FilmProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\appsettings.json",
+              "RelativeToolTip": "FilmProject\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T19:32:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ImageSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\ImageSizeException.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Exceptions\\ImageSizeException.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\ImageSizeException.cs",
+              "RelativeToolTip": "Bussiness\\Exceptions\\ImageSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:44:43.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Bussiness.csproj",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Bussiness.csproj",
+              "RelativeDocumentMoniker": "Bussiness\\Bussiness.csproj",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Bussiness.csproj",
+              "RelativeToolTip": "Bussiness\\Bussiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T20:53:35.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Bussiness\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:45:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:38:08.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\FilmProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FilmProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOMBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T19:23:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ImageContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\ImageContentTypeException.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Exceptions\\ImageContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\ImageContentTypeException.cs",
+              "RelativeToolTip": "Bussiness\\Exceptions\\ImageContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:44:07.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FileNullReferenceException.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Exceptions\\FileNullReferenceException.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeToolTip": "Bussiness\\Exceptions\\FileNullReferenceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:43:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "Bussiness\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:42:43.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Bussiness\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Bussiness\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:41:24.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T19:25:31.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FilmProject\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T19:18:26.184Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
